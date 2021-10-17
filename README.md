@@ -5,7 +5,7 @@
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/01JsBasics"><h3> 01 JS Basic </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/01JsBasic"><h3> 01 JS Basic </h3></a>
  <ol>
  <li>Print 1 - 135</li>
  <li>Print Odd Numbers 1 - 135</li>
@@ -19,7 +19,7 @@
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/02JsIntermediates"><h3> 02 JS Intermediate </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/02JsIntermediate"><h3> 02 JS Intermediate </h3></a>
  <ol>
  <li>Addition</li>
  <li>Shift the Values</li>
@@ -31,7 +31,7 @@
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/03Factorializes"><h3> 03 Factorialize! </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/03Factorialize"><h3> 03 Factorialize! </h3></a>
    Declare a function factorialize(n) that takes an integer n as input and returns the factorial of the provided integer.</br>
    If the integer is represented with the letter n, a factorial is the product of all positive integers less than or equal to n.</br>
    Factorials are often represented with the shorthand notation n!</br>
@@ -39,27 +39,27 @@
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/04PalindromeChecker"><h3> 04 Palindrome Checker </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/04PalindromeChecker"><h3> 04 Palindrome Checker </h3></a>
  Declare a function isPalindrome(str) that takes a string as an input.<br>
  Return true if the given string is a palindrome. Otherwise, return false.<br>
  A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/05thirdHighestNumberInArray"><h3> 05 3rd Highest Number in Array </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/05thirdHighestNumberInArray"><h3> 05 3rd Highest Number in Array </h3></a>
  Having an array of numbers, write an algorithm that will return the 3rd highest number in the array. Your algorithm should do only one iteration of the array (just one for/while loop).<br>
 Example:<br>
 Using the array [5, 2, 8, 20, -2, 0, 11, 7, 3, 9, 31], the correct answer is : 11
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/06LargestNumberinArrays"><h3> 06 Largest Number in Arrays </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/06LargestNumberinArrays"><h3> 06 Largest Number in Arrays </h3></a>
  Return an array consisting of the largest number from each provided sub-array. For simplicity, the provided array will contain exactly 4 sub-arrays.<br>
  Remember, you can iterate through an array with a simple for loop, and access each member with array syntax arr[i].
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/07FindTheLongestWordInAString"><h3> 07 Find the longest Word in a String </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/07FindTheLongestWordInAString"><h3> 07 Find the longest Word in a String </h3></a>
  Return the length of the longest word in the provided sentence.<br>
  Your response should be a number. For these algorithms you are allowed to use the split() method.<br>
  findLongestWord("The quick brown fox jumped over the lazy dog")should return a number.<br>
@@ -68,7 +68,7 @@ Using the array [5, 2, 8, 20, -2, 0, 11, 7, 3, 9, 31], the correct answer is : 1
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/08TitleCaseASentence"><h3> 08 Title Case a Sentence </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/08TitleCaseASentence"><h3> 08 Title Case a Sentence </h3></a>
  Return the provided string with the first letter of each word capitalized. Make sure the rest of the word is in lower case.<br>
 
 For the purpose of this exercise, you should also capitalize on connecting words like "the" and "of".<br>
@@ -77,7 +77,7 @@ For this algorithm, you can use the split() method.
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/09SumAllNumbersInARange"><h3> 09 Sum All Numbers in a Range </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/09SumAllNumbersInARange"><h3> 09 Sum All Numbers in a Range </h3></a>
  We'll pass you an array of two numbers. Return the sum of those two numbers and all numbers between them.<br>
 
 The lowest number will not always come first. <br>
@@ -89,7 +89,7 @@ sumAll([5, 10]) should return 45.
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/10FibonacciSequence"><h3> 10 FFibonacci Sequence </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/10FibonacciSequence"><h3> 10 FFibonacci Sequence </h3></a>
  A great friend of yours, Fibonacci, just came up with a sequence of numbers that is really easy to compute. However, his time allows him to calculate by hand only the first 10-15 terms of the sequence; of course, he is busy trying to come up with some other interesting sequence. So he gives you the first terms and asks you to write an algorithm that will return the n-th term in the sequence.<br>
 
 His sequence looks like this: 1 1 2 3 5 8 13 21 34 ...<br>
@@ -112,7 +112,7 @@ n = 881 -> x <br>
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/11GameOf3s"><h3> 11 Game of 3s </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/11GameOf3s"><h3> 11 Game of 3s </h3></a>
  We want to play a "Game of 3s". Here's how you play it:<br>
 
 First, you pick a random number. Then, repeatedly do the following:<br>
@@ -140,7 +140,7 @@ The output is a list of valid steps that must be taken to play the game. Each st
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/12MagicSquares"><h3> 12 Magic Squares </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/12MagicSquares"><h3> 12 Magic Squares </h3></a>
  A 3x3 magic square is a 3x3 grid of the numbers 1-9 such that each row, column, and major diagonal adds up to 15. Here's an example:<br>
 
 8 1 6 <br>
@@ -159,7 +159,7 @@ Example inputs/outputs<br>
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/13WSearch%26Replace"><h3> 13 Search and Replace </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/13WSearch%26Replace"><h3> 13 Search and Replace </h3></a>
  Perform a search and replace on the sentence using the arguments provided and return the new sentence.<br>
 
 First argument is the sentence to perform the search and replace on.<br>
@@ -170,7 +170,7 @@ Third argument is what you will be replacing the second argument with (after).<b
 
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/14SumAllPrimes"><h3> 14 Sum All Primes </h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/14SumAllPrimes"><h3> 14 Sum All Primes </h3></a>
  Sum all the prime numbers up to and including the provided number.<br>
 
 A prime number is defined as a number greater than one and having only two divisors, one and itself. For example, 2 is a prime number because it's only divisible by one and two.<br>
@@ -183,7 +183,7 @@ sumPrimes(977) should return 73156. <br>
  
  <hr>
  
- <a href="https://github.com/shayanzarei/master-class-algorithm/tree/main/15SumAllOddFibonacci"><h3> 15 Sum All Odd Fibonacci</h3></a>
+ <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/15SumAllOddFibonacci"><h3> 15 Sum All Odd Fibonacci</h3></a>
  Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num.<br>
 
 The first two numbers in the Fibonacci sequence are 1 and 1. Every additional number in the sequence is the sum of the two previous numbers. The first six numbers of the Fibonacci sequence are 1, 1, 2, 3, 5 and 8.<br>
